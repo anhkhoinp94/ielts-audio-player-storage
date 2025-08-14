@@ -1,8 +1,5 @@
 The use of soil to reduce carbon dioxide (CO2) in the atmosphere.
 
-You will hear a part of a lecture about a way of reducing the amount of carbon dioxide in the atmosphere.
-First, you have some time to look at questions 31 to 40.
-You Now listen carefully and answer questions 31 to 40.
 As we saw in the last lecture a major cause of climate change is the rapid rise in the level of carbon dioxide in the atmosphere over the last century.
 If we could reduce the amount of CO2 perhaps the rate of climate change could also be slowed down.
 One potential method involves enhancing the role of the soil that plants grow in with regard to absorbing CO2.
@@ -27,6 +24,7 @@ This aims to boost the fertility of soil and keep it moist through established p
 These include keeping fields planted all year round and increasing the variety of plants being grown.
 Strategies like these can significantly increase the amount of carbon stored in the soil.
 So, agricultural researchers are now building a case for their use in combating climate change.
+
 One American investigation into the potential for storing CO2 on agricultural lands is taking place in California.
 Soil scientist Wendy Silver of the University of California, Berkeley, is conducting a first of its kind study on a large cattle farm in the state.
 She and her students are testing the effects on carbon storage of the compost that is created from waste, both agricultural, including manure and cornstorks and waste produced in gardens such as leaves, branches and lawn trimmings.
