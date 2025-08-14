@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "music-metadata": "^11.0.2"
+  }
+}
