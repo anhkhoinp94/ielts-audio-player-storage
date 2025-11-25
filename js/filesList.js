@@ -1,1 +1,1 @@
-const filesList=["musics/0001.mp3","musics/gRPC001_The_motivation_of_gRPC.mp3"];
+const filesList=["musics/0001.mp3","musics/gRPC001_The_motivation_of_gRPC.mp3","musics/gRPC002_What_is_gRPC_and_how_it_works.mp3"];
