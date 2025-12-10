@@ -1,1 +1,1 @@
-const filesList=["musics/0001.mp3","musics/0002.mp3","musics/0003.mp3","musics/0004.mp3"];
+const filesList=["musics/0001.mp3","musics/0002.mp3","musics/0003.mp3","musics/0004.mp3","musics/0005.mp3"];
