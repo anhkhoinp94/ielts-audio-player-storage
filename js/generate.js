@@ -30,7 +30,7 @@ filesReversed.forEach((file, index) => {
     const fileNameWithoutExt = path.basename(file, path.extname(file));
 
     songInfos.push({
-      id: index + 1,
+      id: filesReversed.length - index,
       name: file,
       title: metadata.common.title || "",
       artists: metadata.common.artists || [],
