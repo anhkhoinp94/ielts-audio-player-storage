@@ -12,9 +12,10 @@ const tasks = [];
 const writeStream = fs.createWriteStream("filesList.js", { flags: "w" });
 writeStream.write("const filesList=[");
 
-files.forEach((file, index) => {
+let filesReversed = files.slice().reverse();
+filesReversed.forEach((file, index) => {
   // write to filesList.js
-  if (index === files.length - 1) {
+  if (index === filesReversed.length - 1) {
     writeStream.write(`"musics/${file}"`);
   } else {
     writeStream.write(`"musics/${file}",`);
@@ -45,7 +46,7 @@ writeStream.end("];");
 
 // write to filesList.json
 Promise.all(tasks).then(() => {
-  songInfos.sort((a, b) => a.id - b.id);
+  songInfos.sort((a, b) => a.id - b.id).reverse();
   const jsonWriteStream = fs.createWriteStream("filesList.json", { flags: "w" });
   jsonWriteStream.write(JSON.stringify(songInfos));
   jsonWriteStream.end();
