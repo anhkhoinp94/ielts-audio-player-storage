@@ -14,6 +14,9 @@ writeStream.write("const filesList=[");
 
 let filesReversed = files.slice().reverse();
 filesReversed.forEach((file, index) => {
+  // only Ielts
+  if (!file.startsWith("Cam_")) return;
+
   // write to filesList.js
   if (index === filesReversed.length - 1) {
     writeStream.write(`"musics/${file}"`);
