@@ -1,1 +1,1 @@
-const filesList=["musics/Cam_20_Test_2_Part_4.mp3","musics/Cam_20_Test_2_Part_2.mp3","musics/Cam_20_Test_2_Part_1.mp3","musics/Cam_20_Test_1_Part_3.mp3","musics/Cam_20_Test_1_Part_2.mp3","musics/Cam_20_Test_1_Part_1.mp3",];
+const filesList=["musics/Cam_20_Test_3_Part_4.mp3","musics/Cam_20_Test_3_Part_2.mp3","musics/Cam_20_Test_3_Part_1.mp3","musics/Cam_20_Test_2_Part_4.mp3","musics/Cam_20_Test_2_Part_2.mp3","musics/Cam_20_Test_2_Part_1.mp3","musics/Cam_20_Test_1_Part_3.mp3","musics/Cam_20_Test_1_Part_2.mp3","musics/Cam_20_Test_1_Part_1.mp3",];
