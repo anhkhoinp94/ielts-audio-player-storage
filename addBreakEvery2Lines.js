@@ -1,9 +1,8 @@
 const fs = require("fs");
 
-const inputFile = "lyrics\\Cam_20_Test_4_Part_4.txt";
-const outputFile = "lyrics\\Cam_20_Test_4_Part_4.txt";
+const ioputFile = "lyrics\\Cam_20_Test_4_Part_4.txt";
 
-const data = fs.readFileSync(inputFile, "utf8");
+const data = fs.readFileSync(ioputFile, "utf8");
 
 // Split by line (handles Windows & Unix)
 const lines = data.split(/\r?\n/);
@@ -19,6 +18,6 @@ for (let i = 0; i < lines.length; i++) {
   }
 }
 result.push("");
-fs.writeFileSync(outputFile, result.join("\n"), "utf8");
+fs.writeFileSync(ioputFile, result.join("\n"), "utf8");
 
 console.log("Done!");
