@@ -1,7 +1,7 @@
 const fs = require("fs");
 
-const inputFile = "lyrics\\Cam_20_Test_3_Part_4.txt";
-const outputFile = "lyrics\\Cam_20_Test_3_Part_4.txt";
+const inputFile = "lyrics\\Cam_20_Test_4_Part_4.txt";
+const outputFile = "lyrics\\Cam_20_Test_4_Part_4.txt";
 
 const data = fs.readFileSync(inputFile, "utf8");
 
